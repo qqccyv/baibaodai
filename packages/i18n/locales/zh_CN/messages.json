@@ -1,0 +1,52 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "qqccyv的浏览器小插件"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "百宝袋"
+  },
+  "toggleTheme": {
+    "message": "Toggle theme"
+  },
+  "loading": {
+    "message": "Loading..."
+  },
+  "greeting": {
+    "description": "Greeting message",
+    "message": "Hello, My name is $NAME$",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "John Doe"
+      }
+    }
+  },
+  "hello": {
+    "description": "Placeholder example",
+    "message": "Hello $1"
+  },
+  "alarm": {
+    "description": "一个闹钟",
+    "message": "闹钟"
+  },
+  "delay_alarm_clock": {
+    "message": "延时闹钟"
+  },
+  "scheduled_alarm_clock": {
+    "message": "定时闹钟"
+  },
+  "repeat_alarm": {
+    "message": "重复闹钟"
+  },
+  "hour": {
+    "message": "小时"
+  },
+  "minute": {
+    "message": "分钟"
+  },
+  "alarm_clock_prompt": {
+    "message": "闹钟提示语"
+  }
+}
